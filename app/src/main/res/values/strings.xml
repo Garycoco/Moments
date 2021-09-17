@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moments</string>
+    <string name="music">Music</string>
+    <string name="all_at_your_fingertips">All at your fingertips</string>
+    <string name="capture_your_moments">Capture your Moments</string>
+    <string name="listen_to_music">Listen to Music</string>
+    <string name="watch_videos">Watch Videos</string>
+</resources>
